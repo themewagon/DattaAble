@@ -2,7 +2,7 @@
 
 #### Preview
 
- - [Demo](https://codedthemes.com/demos/admin-templates/datta-able/tailwind/free)
+ - [Demo](https://themewagon.github.io/DattaAble/)
 
 #### Download
  - [Download from ThemeWagon]( https://themewagon.com/themes/DattaAble)
