@@ -5,7 +5,7 @@
  - [Demo](https://codedthemes.com/demos/admin-templates/datta-able/tailwind/free)
 
 #### Download
- - [Download from CodedThemes]( https://themewagon.com/themes/DattaAble)
+ - [Download from ThemeWagon]( https://themewagon.com/themes/DattaAble)
  
  
 ## Getting Started
