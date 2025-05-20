@@ -12,7 +12,7 @@
 
 Clone from Github 
 ```
-git clone https://github.com/codedthemes/datta-able-free-tailwind-admin-template.git
+git clone https://github.com/themewagon/DattaAble.git
 ```
 *no other dependencies required to run the Datta Able Template*
 ## Author
